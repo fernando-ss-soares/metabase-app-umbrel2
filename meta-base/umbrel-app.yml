@@ -1,0 +1,11 @@
+manifestVersion: 1
+id: meta-base
+category: developer-tools
+name: Metabase
+version: latest
+tagline: metabase
+description: "Metabase gives your team and customers correct data, built on your metrics, permissions, and infrastructure. Self-host or deploy to the cloud in minutes."
+developer: Metabase
+website: https://www.metabase.com/
+port: 2995
+path: ""
